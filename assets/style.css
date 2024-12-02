@@ -1,9 +1,9 @@
 .titulo-digimon {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Arial Narrow Bold', sans-serif;
     font-size: 2em;
     text-transform: uppercase;
-    color: #ffff99; /* Amarillo claro */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    color: #ffff99;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
     margin-top: 10px;
     margin-bottom: 20px;
     letter-spacing: 2px;
@@ -23,7 +23,7 @@ header {
 }
 
 #logo {
-    max-width: 300px; /* Ajusta el tamaño del logo */
+    max-width: 300px;
     height: auto;
 }
 
